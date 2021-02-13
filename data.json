@@ -1,0 +1,78 @@
+{
+  "works": [
+    {
+      "name": "Sıfatlar",
+      "words": [
+        {
+          "english": "Free",
+          "turkish": "Özgür"
+        },
+        {
+          "english": "Old",
+          "turkish": "Eski"
+        },
+        {
+          "english": "New",
+          "turkish": "Yeni"
+        },
+        {
+          "english": "Easy",
+          "turkish": "Kolay"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Sıklık Zarfları",
+      "words": [
+        {
+          "english": "Always",
+          "turkish": "Herzaman"
+        },
+        {
+          "english": "Usually",
+          "turkish": "Genellikle"
+        },
+        {
+          "english": "Often",
+          "turkish": "Sık sık"
+        },
+        {
+          "english": "Sometimes",
+          "turkish": "Bazen, ara sıra"
+        },
+        {
+          "english": "Rarely",
+          "turkish": "Nadiren"
+        },
+        {
+          "english": "Never",
+          "turkish": "Asla"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "FIILER",
+      "words": [
+        {
+          "english": "ASDASD",
+          "turkish": "ASDASD"
+        },
+        {
+          "english": "asdasd",
+          "turkish": "sadasd"
+        },
+        {
+          "english": "asdasda",
+          "turkish": "asdasd"
+        },
+        {
+          "english": "asdsadas",
+          "turkish": "asdasd"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
